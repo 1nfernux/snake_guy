@@ -1,0 +1,17 @@
+﻿  Snake.cpp
+d:\internet explorer\snake gui\snake gui\snake.cpp(162): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\internet explorer\snake gui\snake gui\snake.cpp(163): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\internet explorer\snake gui\snake gui\snake.cpp(164): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\internet explorer\snake gui\snake gui\snake.cpp(165): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\internet explorer\snake gui\snake gui\snake.cpp(166): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\internet explorer\snake gui\snake gui\snake.cpp(171): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\internet explorer\snake gui\snake gui\snake.cpp(231): warning C4018: <: несоответствие типов со знаком и без знака
+d:\internet explorer\snake gui\snake gui\snake.cpp(237): warning C4018: <: несоответствие типов со знаком и без знака
+d:\internet explorer\snake gui\snake gui\snake.cpp(336): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\internet explorer\snake gui\snake gui\snake.cpp(349): warning C4018: <: несоответствие типов со знаком и без знака
+d:\internet explorer\snake gui\snake gui\snake.cpp(375): warning C4018: <: несоответствие типов со знаком и без знака
+d:\internet explorer\snake gui\snake gui\snake.cpp(389): warning C4018: <: несоответствие типов со знаком и без знака
+d:\internet explorer\snake gui\snake gui\snake.cpp(410): warning C4018: <: несоответствие типов со знаком и без знака
+d:\internet explorer\snake gui\snake gui\snake.cpp(523): warning C4018: >: несоответствие типов со знаком и без знака
+d:\internet explorer\snake gui\snake gui\snake.cpp(565): warning C4018: >: несоответствие типов со знаком и без знака
+  Snake GUI.vcxproj -> D:\Internet Explorer\Snake GUI\Debug\Snake GUI.exe
